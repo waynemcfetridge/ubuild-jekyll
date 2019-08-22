@@ -14,7 +14,7 @@ page_sections:
   - link: "#"
     link_text: Experiments
   - link: "#"
-    link_text: Team
+    link_text: The Past
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Contact
