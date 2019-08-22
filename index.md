@@ -10,7 +10,7 @@ page_sections:
   - link: "/"
     link_text: Home
   - link: "#"
-    link_text: Features
+    link_text: Finished Work
   - link: "#"
     link_text: Pricing
   - link: "#"
