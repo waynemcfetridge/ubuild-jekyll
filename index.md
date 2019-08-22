@@ -12,7 +12,7 @@ page_sections:
   - link: "#"
     link_text: Finished Work
   - link: "#"
-    link_text: Pricing
+    link_text: Experiments
   - link: "#"
     link_text: Team
   cta:
