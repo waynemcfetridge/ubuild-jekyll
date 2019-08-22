@@ -27,8 +27,8 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: See more work
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: "/uploads/2019/08/22/69247997_10156813202597029_2661034532555194368_o.png"
+    alt_text: Portarit
   background_image: "/uploads/2019/08/22/bg.jpg"
 - template: content-feature
   block: feature-1
